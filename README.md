@@ -4,11 +4,16 @@ Hihi! Welcome to my page of links - basically the one-stop shop to finding most 
 
 ## Highlights
 
-- [What's an ERC/EIP and how to write a smart contract with royalties](https://youtu.be/2O6aL6gcaUI?si=aC6vKNoulplgGvXm)
+- What's an ERC/EIP and how to write a smart contract with royalties
+  - [Video](https://youtu.be/2O6aL6gcaUI?si=aC6vKNoulplgGvXm)
   - [Written guide](https://trufflesuite.com/guides/nft-royalty/)
-- [Devcon 6 Workshop - Build a DApp on Optimism: How to Conquer L2 Bridging](https://www.youtube.com/watch?v=mvYM6QRE3OE&list=PLaM7G4Llrb7x3ol0Ag4_qebqtC9jSuQnE&index=26)
+- Devcon 6 Workshop - Build a DApp on Optimism: How to Conquer L2 Bridging
+  - [Video](https://www.youtube.com/watch?v=mvYM6QRE3OE&list=PLaM7G4Llrb7x3ol0Ag4_qebqtC9jSuQnE&index=26)
   - [Written guide](https://trufflesuite.com/guides/optimism-bridge-widget/)
 - [Devs Do Something podcast on Linea](https://youtu.be/KLCxcIG86eE?si=yNJpz-TH_oXl8lFY)
+- [Linea Mainnet Livestream Pt 1](https://www.youtube.com/live/B7DRGih9vgA?si=ndXpiz3jimH7KNNw)
+- [Linea Community Call ft Joe Lubin](https://linea.mirror.xyz/HaSyWLYDbCJCXEYFErmq6p_HRx50xaWzCWWIYmr4jMQ)
+- [The Linea Prover for a Very Smart High Schooler](https://linea.mirror.xyz/B3b1lUK8--UKZ_Qehk7SfOyvdcGbcuoyvNsSukHgOY8)
 
 ## Expanded List
 
@@ -32,3 +37,12 @@ Hihi! Welcome to my page of links - basically the one-stop shop to finding most 
 
 - [Devs Do Something](https://youtu.be/KLCxcIG86eE?si=yNJpz-TH_oXl8lFY)
 - [The State of Developer Education](https://open.spotify.com/episode/5Z4bXZfnyhfWMSU7DvnzjJ?si=HRzhq813SrSncoAP6VrCMQ)
+
+### Conferences
+
+- [Devcon 6 Workshop - Build a DApp on Optimism: How to Conquer L2 Bridging](https://www.youtube.com/watch?v=mvYM6QRE3OE&list=PLaM7G4Llrb7x3ol0Ag4_qebqtC9jSuQnE&index=26)
+- [Dappcon 2022 - WTF Is My Smart Contract Doing: Understanding And Securing Tx With Truffle](https://www.youtube.com/watch?v=X0Zou9KG7po)
+- [EthDenver 2022 - Open source software in Web3: Lessons learned from the Truffle team](https://www.youtube.com/watch?v=YKcRrwYGetA)
+- [EthDenver 2022 - Smart Contract Tuesdays](https://www.youtube.com/watch?v=PRho5VCBvNw)
+- [EthGlobal Paris/Tokyo/Waterloo/Lisbon - Linea in the L2 Landscape: How to and where do you build?](https://youtu.be/ImFQFvv3AwY?si=_jH__ccVnUPkRHOX)
+- ...and many more talks and panels at various side events, hackathons, and student group gatherings!
