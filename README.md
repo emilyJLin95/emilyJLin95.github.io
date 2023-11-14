@@ -1,5 +1,3 @@
-# Emily Lin's Portfolio
-
 Hihi! Welcome to my page of links - basically the one-stop shop to finding most of the work I've done over my devrel career!
 
 ## Highlights
@@ -25,7 +23,7 @@ Hihi! Welcome to my page of links - basically the one-stop shop to finding most 
   - [Mainnet livestreams](https://youtube.com/playlist?list=PLJ06SwdM0bLoLiXdSEbV_M_8H0dJEIWgY&si=K-qLRv2dODHs1HkR) kick off Linea's 2-part Mainnet launch.
 - [Truffle YouTube](https://www.youtube.com/@TruffleSuite)
   - [Web3 Unleashed](https://youtube.com/playlist?list=PLVGaL7nFtvpBnLGcWnNRQsIAB3Fs-0Exx&si=WTqwgtpaCv-fmEWD) is a web series in which I built dapps live, interviewing and integrating various protocols into the dapps, while simulatenously highlighting Truffle features.
-  - [Truffle community calls](https://youtube.com/playlist?list=PLVGaL7nFtvpDsMwQexgZn7aagCTvhYnxm&si=SWGzJHzvOb93MPCT) announce product updates and talk about Truffle's upcoming activities
+  - [Truffle community calls](https://youtube.com/playlist?list=PLVGaL7nFtvpDsMwQexgZn7aagCTvhYnxm&si=SWGzJHzvOb93MPCT) announce product updates and talk about Truffle's upcoming activities.
 
 ### Explainers and How-tos
 
