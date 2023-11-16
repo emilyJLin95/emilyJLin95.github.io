@@ -1,5 +1,7 @@
 Hihi! Welcome to my page of links - basically the one-stop shop to finding most of the work I've done over my devrel career!
 
+You can find me on Twitter, [@_emjlin](www.twitter.com/_emjlin).
+
 ## Highlights
 
 - What's an ERC/EIP and how to write a smart contract with royalties
